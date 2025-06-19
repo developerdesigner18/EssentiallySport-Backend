@@ -6,3 +6,5 @@ npm-debug.log
 yarn-error.log
 .DS_Store
 *.log
+# Google Cloud TTS service account key
+config/google-tts-key.json
